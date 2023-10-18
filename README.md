@@ -1,4 +1,4 @@
-# WebGaurd: Detecting Evasive Web Scanners via a Multi-Modal Forensics Engine
+# WebGuard: Detecting Evasive Web Scanners via a Multi-Modal Forensics Engine
 
 ## Abstract
 Web traffic has evolved to include both human users and automated agents, ranging from benign web crawlers to adversarial scanners such as those capable of credential stuffing, command injection, and account hijacking at the web scale. The estimated financial costs of these adversarial activities
