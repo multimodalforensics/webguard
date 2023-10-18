@@ -9,7 +9,7 @@ equipped WEBGUARD with multi-modal behavioral monitoring mechanisms, such as mon
 
 
 ## Repository Structure
-The reposirty includes different moduels introduced in the corresponding submitted paper. You can find details of each module in the following.
+The repository includes different modules introduced in the corresponding paper. You can find details of each module in the following.
 
 ### Collector
 The collector module includes both `server` and `client` codes of the data collection process. Details of the collector module can be found in a dedicated [README](collector/README.md) file included in the directory.
