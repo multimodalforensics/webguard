@@ -12,7 +12,7 @@ equipped WEBGUARD with multi-modal behavioral monitoring mechanisms, such as mon
 The reposirty includes different moduels introduced in the corresponding submitted paper. You can find details of each module in the following.
 
 ### Collector
-The collector module includes both `server` and `client` codes of the data collection process. Details of the collector module can be found in a dedicated [README](collector/README) file included in the directory.
+The collector module includes both `server` and `client` codes of the data collection process. Details of the collector module can be found in a dedicated [README](collector/README.md) file included in the directory.
 
 ### Data
 We have provided sample traces from each of the experimented agent types. Additionally, `data` directory includes the required codes for preprocessing of the raw json files to be used in future analysis.
